@@ -2,6 +2,10 @@
 
 # Variable Types -- Most Common
 
-my_float
-my_int
-my_string 
+my_float = 3.12
+my_int = 1026
+my_string = "I like salamanders."
+
+print(my_float)
+print(my_int)
+print(my_string)
